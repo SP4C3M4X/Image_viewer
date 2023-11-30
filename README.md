@@ -1,2 +1,2 @@
 # Image_viewer
-View images from a selected file
+View images from a selected folder
